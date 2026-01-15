@@ -3,7 +3,7 @@
 [Piggy Bounce](https://piggybounce.com) is a powerful Node.js SDK and collaboration platform for capturing website screenshots, generating PDFs, and annotating images at scale. It is designed for developers, QA teams, designers, and product teams who need automated visual capture, markup, and real-time collaboration.
 
 
-Piggy Bounce helps you:
+[Piggy Bounce](https://piggybounce.com) helps you:
 
 * Capture screenshots of any URL in standard device sizes (desktop, tablet, mobile)
 * Generate PDFs from URLs or raw HTML in standard paper sizes
@@ -52,7 +52,7 @@ Capture high-quality screenshots of any public or authenticated URL.
 ### Image Annotation & Markup
 
 **Annotate images that are:**
-* Uploaded directly to Piggy Bounce
+* Uploaded directly to [Piggy Bounce](https://piggybounce.com)
 * Captured automatically from a URL  
 
 **Annotation features:**
@@ -85,7 +85,7 @@ Perfect for:
 
 
 ### Real-Time Team Collaboration
-Piggy Bounce is not just a library — it’s a collaborative platform.
+[Piggy Bounce](https://piggybounce.com) is not just a library — it’s a collaborative platform.
 
 * Share annotated assets with team members
 * Add threaded comments
