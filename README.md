@@ -120,7 +120,9 @@ Ideal for remote teams, agencies, and product teams.
 
 ### Installation
 ```bash
-npm install piggybounce
+npm install piggybounce # NPM 
+pnpm install piggybounce # PNPM
+yarn add piggybounce # YARN
 ```
 
 ### Quick Start Example
