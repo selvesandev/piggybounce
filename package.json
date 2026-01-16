@@ -1,10 +1,11 @@
 {
   "name": "piggybounce",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Piggybounce is a powerful Node.js SDK and collaboration platform for capturing website screenshots, generating PDFs, and annotating images at scale. It is designed for developers, QA teams, designers, and product teams who need automated visual capture, markup, and real-time collaboration.",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "homepage": "https://piggybounce.com",
   "files": [
     "dist",
     "README.md",
